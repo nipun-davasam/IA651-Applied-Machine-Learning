@@ -13,7 +13,7 @@ The neural network model architecture employed for malaria detection is based on
 - Train ResNet model and save it to compare its usability in comparision to CNNs
 
 ## EDA
-We have collected the dataset from Kaggle available at the following link: https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria
+We have collected the dataset from Kaggle available at the following link: 
 
 This dataset comprises a collection of blood smear images captured from malaria-infected and uninfected patients. The images were obtained using a light microscope at varying magnifications and contain red blood cells infected with different species of the Plasmodium parasite, including Plasmodium falciparum and Plasmodium vivax, among others
 
@@ -22,7 +22,7 @@ y: infected and uninfected
 
 Problem type: Classification        
 
-## Dataset Description
+## Dataset Description (https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria)
 The dataset is organized into two main categories:       
 ** Parasitized Cells** : Images of red blood cells infected with malaria parasites.
 
