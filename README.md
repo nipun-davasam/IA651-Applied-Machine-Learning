@@ -24,7 +24,7 @@ Problem type: Classification
 
 ## Dataset Description
 The dataset is organized into two main categories:       
-#### Parasitized Cells Images of red blood cells infected with malaria parasites.
+** Parasitized Cells** : Images of red blood cells infected with malaria parasites.
 
 Uninfected Cells: Images of healthy red blood cells without any malaria infecti
 
