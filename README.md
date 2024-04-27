@@ -93,3 +93,4 @@ Mobile applications for remote diagnosis: Mobile apps equipped with malaria dete
 ## Going further
 Need to test on noisy images. We are planning to change the threshhold of the predictions and try to reduce the type 1 error(False-Positive) cases among the predictions.
 
+![download](https://github.com/nipun-davasam/IA651-Applied-Machine-Learning/assets/151178533/ec681867-ebc3-4bed-828d-c090ba45a0bb)
